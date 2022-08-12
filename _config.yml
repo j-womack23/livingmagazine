@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+
+- name: Upload GitHub Pages artifact
+  uses: actions/upload-pages-artifact@v1.0.3
