@@ -50,7 +50,7 @@ function cmAddModalContent() {
                 </svg>
             </div>
             <iframe id="cm-popup-iframe" onload="cmGetIframeHeight(this)"
-                src="https://confirmsubscription.com/h/r/470971C935D437462540EF23F30FEDED/forms/EDEE881C94B5D41F" width="545" height="935"
+                src="https://cdn.jsdelivr.net/gh/j-womack23/livingmagazine@3987c6ed90660833a1b1b44c81a40ab5db96e620/Free%20Digital%20Edition.html" width="545" height="935"
                 frameborder="0" marginwidth="0" margin="0" height="0" scrolling="no" allowfullscreen></iframe>
         </div>
     </div>`;
